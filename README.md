@@ -11,6 +11,11 @@ Spyke will also notify you with the top headlines of the stock and incase there 
 
 ## Technologies used
 
--Flutter 
--Flask
--Heroku(For flask deployment)
+- Flutter 
+- Flask
+- Heroku(For flask deployment)
+
+## How to use project?
+
+- Simply download the main branch
+- Run flutter app with flutter run command
