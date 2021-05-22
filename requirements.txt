@@ -1,0 +1,5 @@
+Flask==1.1.2
+pandas==1.2.4
+yahoo_fin==0.8.8
+beautifulsoup4==4.9.3
+gunicorn
